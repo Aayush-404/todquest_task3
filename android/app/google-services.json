@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "442382563642",
+    "project_id": "todquesttask-cbd0b",
+    "storage_bucket": "todquesttask-cbd0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442382563642:android:a3a4271f39525e92503803",
+        "android_client_info": {
+          "package_name": "com.example.todquest_task3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442382563642-qq1h7rpsphekp6jg0pph4v2mes19shfj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.application",
+            "certificate_hash": "13dd29a1ff70b6969a97489147948107f96762e0"
+          }
+        },
+        {
+          "client_id": "442382563642-3fuagclklrncb5bs2jemltm14fgi68k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa1ck_vDSfhoLFswQkI1-nJXrJrZ3Vrxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442382563642-3fuagclklrncb5bs2jemltm14fgi68k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
